@@ -32,6 +32,6 @@ Commit your changes with clear and descriptive commit messages:
 Please adhere to our [Code of Conduct](#) when participating in our community.
 
 ## Contact
-If you have any questions or need further assistance, contact us at [email@example.com](mailto:joelitoxs19@gmail.com).
+If you have any questions or need further assistance, contact us at [joelitoxs19@gmail.com](mailto:joelitoxs19@gmail.com).
 
 We appreciate your contributions to N#XT!
