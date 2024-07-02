@@ -3,7 +3,7 @@
 Thank you for considering contributing to N#XT! Below are guidelines to help you get started and contribute effectively to our project.
 
 ## Reporting Issues
-If you encounter bugs, issues, or have suggestions for improvements, please [open an issue](#) on GitHub. Provide clear and detailed information to help us understand the problem.
+If you encounter bugs, issues, or have suggestions for improvements, please [open an issue](https://github.com/yusufH001/N-XT/issues) on GitHub. Provide clear and detailed information to help us understand the problem.
 
 ## How to Contribute Code
 
