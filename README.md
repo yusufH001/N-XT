@@ -16,7 +16,7 @@ N#XT is a dynamic website dedicated to modern web development and Linux server m
 - **Security**: Resources on built-in security features to protect your applications and servers from vulnerabilities.
 
 ## Contributing
-We welcome contributions from the community. If you are interested in contributing, please read our [contributing guidelines](#https://github.com/yusufH001/N-XT/blob/main/contributing%20guidelines.md).
+We welcome contributions from the community. If you are interested in contributing, please read our [contributing guidelines](https://github.com/yusufH001/N-XT/blob/main/contributing%20guidelines.md).
 
 ## License
 N#XT is licensed under the [GNU General Public License](#). Feel free to use, modify, and distribute the resources as per the license terms.
