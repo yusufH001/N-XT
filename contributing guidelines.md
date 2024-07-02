@@ -29,7 +29,7 @@ Commit your changes with clear and descriptive commit messages:
 3. Provide a detailed description of your changes and reference any related issues.
 
 ## Code of Conduct
-Please adhere to our [Code of Conduct](#) when participating in our community.
+Please adhere to our [Code of Conduct](https://github.com/yusufH001/N-XT/blob/main/code%20of%20conduct.md) when participating in our community.
 
 ## Contact
 If you have any questions or need further assistance, contact us at [joelitoxs19@gmail.com](mailto:joelitoxs19@gmail.com).
